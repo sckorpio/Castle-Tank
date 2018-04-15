@@ -1,4 +1,4 @@
-https://github.com/sckorpio/Castle-Tank/blob/master/Screenshot%20(60).png
+![](Screenshot%20(60).png)
 
 # PROJECT TITLE: Castle-Tank
 
